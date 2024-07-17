@@ -25,7 +25,7 @@ MediAssist is designed to assist users in predicting potential diseases based on
 - **Programming Language**: Python
 - **Libraries**: scikit-learn, pandas, numpy, nltk, spacy
 - **Machine Learning Algorithms**: K-Nearest Neighbors (KNN), Decision Tree
-- **Framework**: Streamlit
+- **Framework**: Flask
 
 ## Installation
 To get a local copy up and running follow these simple steps.
@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple steps.
 
 4. **Run the chatbot**
     ```bash
-    streamlit run app.py
+    python app.py
     ```
 
 ## Usage
